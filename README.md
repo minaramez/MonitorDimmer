@@ -30,7 +30,7 @@ This makes it compatible with virtually any monitor — even those that don’t 
 
 ## ⚠️ Important Notes
 
-Some applications (especially games or elevated/admin apps) run with higher privileges than normal applications.
+Many applications (especially games, elevated/admin apps, and browsers) run with higher privileges than normal applications.
 
 In those cases, the overlay may not appear on top.
 
