@@ -73,7 +73,7 @@ Download the latest version from the [Releases](../../releases) section.
 
 ## 🖼️ Screenshots
 
-![Monitor Dimmer UI](screenshot_1.png)
+![Monitor Dimmer UI](Screenshot_1.png)
 
 ---
 
