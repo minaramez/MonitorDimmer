@@ -95,12 +95,6 @@ This app provides a simple, reliable workaround using a software-based approach.
 
 ---
 
-## 📄 License
-
-MIT License (or whatever you choose)
-
----
-
 ## 💬 Feedback
 
 Feel free to open issues or suggest improvements.
