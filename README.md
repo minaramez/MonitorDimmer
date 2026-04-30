@@ -73,7 +73,7 @@ Download the latest version from the [Releases](../../releases) section.
 
 ## 🖼️ Screenshots
 
-_Add a screenshot here of your tray popup UI_
+![Monitor Dimmer UI](screenshot_1.png)
 
 ---
 
